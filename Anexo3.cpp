@@ -31,7 +31,7 @@ int main(){
 		
 	archivo_guardado << 0 << " " << x1-x2 << endl;
 		
-	for(int i = 1; i < 100; i++){
+	for(int i = 1; i < 30; i++){
 		
 		x1 = (r * x1 *(1.0 -x1));
 			
